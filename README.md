@@ -2,6 +2,8 @@
 
 ### Welcome to the future!
 
+![first cat](images/cat01.jpg)
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro optio,
 doloremque architecto aperiam eum temporibus possimus corrupti eveniet,
 impedit pariatur recusandae cupiditate deserunt modi.
